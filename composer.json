@@ -1,0 +1,19 @@
+{
+    "name": "laravelelms/classroomapi",
+    "description": "Larvel e-learning management class room apo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ariful Islam",
+            "email": "ariful3010@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "LaravelElms\\ClassRoomApi\\": "src/"
+        }
+    }
+}
